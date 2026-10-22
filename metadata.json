@@ -1,0 +1,7 @@
+{
+  "name": "AI Face Recognition Attendance System",
+  "description": "Contactless real-time face recognition attendance system with live camera detection, automatic attendance logging, and CSV export.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
